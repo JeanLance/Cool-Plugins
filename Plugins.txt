@@ -1,0 +1,9 @@
+Used Plugins:
+/* Progress Bar */
+https://frontendscript.com/circular-progress-bar-plain-html-css/
+
+/* Wavy Background(header) */
+https://frontendscript.com/animated-waves-header-using-javascript-and-canvas/
+
+/* Flipper */
+http://nnattawat.github.io/flip/
